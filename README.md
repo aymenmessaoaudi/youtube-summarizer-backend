@@ -13,8 +13,8 @@ Une API Flask qui utilise l'IA pour générer des résumés de vidéos YouTube, 
 
 1. Clonez ce dépôt :
 ```bash
-git clone https://github.com/aymenmessaoaudi/youtube-summarizer.git
-cd youtube-summarizer/youtube-summarizer-backend
+git clone https://github.com/aymenmessaoaudi/youtube-summarizer-backend.git
+cd youtube-summarizer-backend
 ```
 
 2. Installez les dépendances :
