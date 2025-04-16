@@ -1,0 +1,35 @@
+# Environnement Python
+venv/
+env/
+.env
+.venv/
+ENV/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Fichiers locaux
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers spécifiques au projet
+instance/
+.webassets-cache
+node_modules/
+
+# Clés API et secrets
+*.pem
+*.key
