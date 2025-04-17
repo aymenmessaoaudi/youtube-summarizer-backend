@@ -54,13 +54,13 @@ def summarize():
 
     Ta mission :
     - Résume uniquement en français 🇫🇷
-    - Formate en **bullet points clairs** avec des titres en gras
+    - Formate en bullet points clairs avec des titres
     - Pas d’introduction, pas de conclusion, pas de traduction en anglais
     - Garde uniquement les informations utiles
-    - Utilise **le style Markdown** :
+    - Utilise le style Markdown :
       - Exemple :
-        - **Sujet :** Contenu
-        - **Sujet 2 :** Autre contenu
+        - Sujet : Contenu
+        - Sujet 2 : Autre contenu
 
     Voici la transcription :
     {transcript_text}
